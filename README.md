@@ -7,7 +7,7 @@ O desafio é desenvolver uma versão **mobile first** do instagram utilizando ap
 > 👉 [Instagram Codenation](https://aceleradev-react.netlify.com/aula-02/public)
 
 ## Tópicos:
-Neste desafio você vai praticar os seus conhecimentos em: 
+Neste desafio para praticar os conhecimentos em: 
 - **HTML5**
 - **CSS3**
 - **[Metodologia BEM CSS](http://getbem.com/naming/)**
@@ -19,34 +19,13 @@ Neste desafio você vai praticar os seus conhecimentos em:
 > - ⚠️ O site deve ser **Mobile First**.
 > - ✋ **Não utilize** frameworks CSS como Bootstrap, Foundation e afins.
 
-## Requisitos:
-* **[Node v13.8.0](https://nodejs.org/en/)** - ou superior, instalado em seu computador.
-* **[Live Server](https://www.npmjs.com/package/live-server)**
-​  
-> O Live server é um módulo NPM que permite servir localmente páginas HTML, sem a necessidade de instalar plugins adicionais no navegador, ou em seu editor.
-> 
-> Uma vez que o **nodejs** esteja instalado em seu computador, abra o terminal e execute o comando:
-> 👉 **`npm install -g live-server`**  
-> 
-> Após a instalação você deverá navegar até o diretório contendo seus arquivos HTML e executar o comando:
-> 👉 **`live-server ./[nome-da-pasta ou arquivo html]`**
-
-
-## Dicas:
-* Utilize as tags semânticas do HTML5 onde achar que seja necessário
-* Você pode fazer download do [Normalize CSS](https://necolas.github.io/normalize.css/) e utilizar no projeto para **"normalizar/resetar"** os estilos padrão dos navegadores.
-* 👁️ Inspecione os elementos do preview do [Instagram Codenation](https://aceleradev-react.netlify.com/aula-02/public/) e descubra como alguns efeitos foram executados.
-* 📜 [Guia BEM CSS](http://getbem.com/naming/)
-* 📜 [Guia Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
-* 📜 [Guia HTML5](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
-* 📜 [Guia CSS3](https://www.w3c.br/pub/Materiais/PublicacoesW3C/guia-css-w3cbr.pdf)
-
 ## Screenshots de Referência
 ### Versão Mobile:
-![](../screenshots/screenshot-aula-02-mobile.png)
+![instagram_mobile](https://user-images.githubusercontent.com/56850413/76451719-a01dfa80-63ae-11ea-955f-42c766f33331.PNG)
 
 ### Versão Desktop:
-![](../screenshots/screenshot-aula-02-desktop.png)
+![instagram_desktop](https://user-images.githubusercontent.com/56850413/76451716-9f856400-63ae-11ea-8a03-cc0b3a6cb60a.PNG)
+
 
 
 
