@@ -3,8 +3,8 @@
 ## Objetivo: 
 O desafio é desenvolver uma versão **mobile first** do instagram utilizando apenas **HTML5** e **CSS3**.
 
-> **Preview:**
-> 👉 [Instagram Codenation](https://aceleradev-react.netlify.com/aula-02/public)
+ **DESAFIO REALIZADO ✅:**
+>  [![Netlify Status](https://api.netlify.com/api/v1/badges/26065f6c-d35f-453f-a0ba-37ed56771c76/deploy-status)](https://segundo-desafio-codenation.netlify.com)
 
 ## Tópicos:
 Neste desafio para praticar os conhecimentos em: 
