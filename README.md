@@ -4,7 +4,7 @@
 O desafio é desenvolver uma versão **mobile first** do instagram utilizando apenas **HTML5** e **CSS3**.
 
  **DESAFIO REALIZADO ✅:**
->  [![Netlify Status](https://api.netlify.com/api/v1/badges/26065f6c-d35f-453f-a0ba-37ed56771c76/deploy-status)](https://segundo-desafio-codenation.netlify.com)
+>  [![Netlify Status](https://api.netlify.com/api/v1/badges/3f1af161-40a3-47e1-b4e5-ffa01eab31c5/deploy-status)](https://segundo-desafio-codenation.netlify.com)
 
 ## Tópicos:
 Neste desafio para praticar os conhecimentos em: 
